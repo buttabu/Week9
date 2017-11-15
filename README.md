@@ -2,7 +2,7 @@
 In this project, we had to create a honeypot server, is a computer system that is set up to act as a catch cyberattackers, and to detect, or study attempts to gain unauthorized access to information system.
 
 
-## Honeypot 1: Dionaea with HTTP
+## HoneyPot: Dionaea with HTTP
 ### Summary
 Dionaea is a honeypot whose intention is to trap malwares that are exploiting vulnerabilities exposed by services offered to the network with the ultimate goal of gaining a copy of the attacking malware.
 
